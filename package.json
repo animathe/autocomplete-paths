@@ -1,9 +1,9 @@
 {
-  "name": "autocomplete-paths",
+  "name": "cisco-ucsd-workflow-specification",
   "main": "./lib/autocomplete-paths",
   "version": "1.0.2",
-  "description": "Adds path autocompletion to autocomplete+",
-  "repository": "https://github.com/atom-community/autocomplete-paths",
+  "description": "Uses autocompletion+ to suggest workflow artifacts used in Cisco UCS Director",
+  "repository": "https://github.com/animathe/autocomplete-paths.git",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
